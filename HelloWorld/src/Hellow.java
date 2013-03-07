@@ -15,7 +15,7 @@ public class Hellow {
 		
 		System.out.println("dev branch");
 		
-		System.out.println("different message");
+		System.out.println("message from master");
 	}
 
 }
