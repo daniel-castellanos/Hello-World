@@ -14,6 +14,8 @@ public class Hellow {
 		System.out.println("Test branching");
 		
 		System.out.println("dev branch");
+		
+		System.out.println("create conflict");
 	}
 
 }
