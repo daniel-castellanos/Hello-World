@@ -7,7 +7,7 @@ public class Hellow {
 	public static void main(String[] args) {
 		System.out.println("Push upstream");
 		
-		System.out.println("dev branch a and b");
+		System.out.println("wrong message");
 
 				
 	}
